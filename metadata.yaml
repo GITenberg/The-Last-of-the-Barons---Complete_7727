@@ -1,0 +1,48 @@
+_repo: The-Last-of-the-Barons---Complete_7727
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lytton, Edward Bulwer Lytton, Baron
+    aliases:
+    - Bulwer-Lytton, Edward George Earle Lytton, 1st Baron
+    - Bulwer, Edward Lytton
+    birthdate: 1803
+    deathdate: 1873
+    gutenberg_agent_id: '761'
+    url: http://www.gutenberg.org/2009/agents/761
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Bulwer-Lytton,_1st_Baron_Lytton
+description: "The Last of the Barons is a historical novel by the English author Edward\
+  \ Bulwer-Lytton first published in 1843. Its plot revolves around the power struggle\
+  \ between the English King Edward IV and his powerful minister Earl of Warwick,\
+  \ known as \"Warwick the kingmaker\".\nThe King is portrayed as effeminate, capricious\
+  \ and licentious, in contrast with the Earl, shown as a distinguished warrior and\
+  \ politician, great patriot and affectionate father. Other historical figures that\
+  \ appear frequently in the text are Duke of Clarence, Duke of Gloucester (the future\
+  \ King Richard III), Marquess of Montagu, and Lord Hastings.\nRomance and science\
+  \ in the Middle Ages are the secondary themes of the novel. They are explored through\
+  \ Sibyll, a beautiful young maiden, and her old father, Adam Warner. Sibyll, who\
+  \ is in love with Lord Hastings, is inseparable from her father throughout the story.\
+  \ Adam is a hypomanic natural philosopher working for many years to complete his\
+  \ invention, a mechanical device that is supposed to carry out functions of a modern\
+  \ steam engine. Persecuted, mistrusted, and misunderstood, he is forced to work\
+  \ as a royal alchemist.\nThe novel ends tragically with the defeat and death of\
+  \ Warwick at the Battle of Barnet.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2004-11-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7727'
+  wikidata: Q7746222
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Warwick, Richard Neville, Earl of, 1428-1471 -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Great Britain -- History -- Wars of the Roses, 1455-1485 -- Fiction'
+- GITenberg
+title: The Last of the Barons — Complete
+url: http://www.gutenberg.org/ebooks/7727
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Last_of_the_Barons
